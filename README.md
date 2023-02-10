@@ -16,7 +16,7 @@
   <li>Pensamento crítico</li>
   <br>
   <p> Sobre meu perfil no GitHub:</p>
-  <diV
+  <div>
 <a href="https://www.github.com/albertonsc">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=albertonsc&theme=gotham">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertonsc&layout=compact&theme=gotham">
