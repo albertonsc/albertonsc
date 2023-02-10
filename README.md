@@ -18,8 +18,8 @@
   <p> Sobre meu perfil no GitHub:</p>
   <diV
 <a href="https://www.github.com/albertonsc">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=albertonsc&theme=gotham">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertonsc&layout=compact&theme=gotham">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=albertonsc&theme=gotham">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertonsc&layout=compact&theme=gotham">
 </div>
 <br>
 Sigo em estudo constante de tecnologias voltadas para o front nos quais pude aplicar até omomento em projetos pessoais como HTML, CSS, JavaScriptt, React, TypeScript e Styled-components.
