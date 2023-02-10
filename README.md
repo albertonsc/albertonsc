@@ -34,7 +34,7 @@ Sigo em estudo constante de tecnologias voltadas para o front nos quais pude apl
 <br>
 Em um futuro próximo considero estar conhecendo tecnológias voltadas para o backend.
   
-  
+  <br>
 <div> 
    <a href="https://instagram.com/bttonsc.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href="https://discord.gg/albertonsc#4521" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
