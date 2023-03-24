@@ -4,7 +4,7 @@
 <p>📚 Graduando de Análise e desenvolvimento de sistemas pela Descomplica</p>
 
 <p> Meu primeiro contato com programação foi em 2021, mas somente em 2022 mergulhei de cabeça</p>
-<p>Imigrante de outra área, vindo de química ápos fazer graduação e mestrado e ter atuado como professor industriário</p>
+<p>Imigrante de outra área, vindo de química ápos fazer graduação e mestrado e ter atuado como professor e industriário</p>
 
 <p>No decorrer da minha vida acadêmica e profissional pude desenvolver algumas soft skills como:
   <li>Comunicação assertiva</li>
