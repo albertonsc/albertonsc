@@ -1,6 +1,6 @@
-<h2>👋 Olá, me chamo Alberto Nascimento</h2>
+<h2>Alberto Nascimento</h2>
 
-<p>💻 Desenvolvedor front-end Jr.</p>
+<p>💻 Desenvolvedor front-end Web e Mobile</p>
 <p>📚 Graduando de Análise e desenvolvimento de sistemas pela Descomplica</p>
 
 <p>No decorrer da minha vida acadêmica e profissional pude desenvolver soft skills como:
