@@ -14,11 +14,7 @@
   
   <br>
   <p> Sobre meu perfil no GitHub:</p>
-    <div>
-<a href="https://www.github.com/albertonsc">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=albertonsc&theme=gotham">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertonsc&layout=compact&theme=gotham">
-</div>
+ 
   <div style="display: inline_block"><br>
   <img align="center" alt="Alberto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alberto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
