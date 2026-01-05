@@ -1,9 +1,8 @@
 <h2>Alberto Nascimento</h2>
 
 <p>💻 Desenvolvedor front-end Web e Mobile</p>
-<p>📚 Graduando de Análise e desenvolvimento de sistemas pela Descomplica</p>
+<p>📚 Graduado em Análise e desenvolvimento de sistemas pela Descomplica</p>
 
-<p>No decorrer da minha vida acadêmica e profissional pude desenvolver soft skills como:
   <li>Comunicação assertiva</li>
   <li>Liderança</li>
   <li>Gestão de tempo </li>
